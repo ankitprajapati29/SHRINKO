@@ -60,7 +60,7 @@ It connects a React-based frontend with a Python FastAPI backend to handle file 
 3. **Compress** – The backend processes the file.
 4. **Download** – Access the processed output.
 
-## 🔮 Future Scope
+## 🔮 Future Enhancements
 
 - Image compression and format conversion.
 - Advanced PDF tools and optimization.
