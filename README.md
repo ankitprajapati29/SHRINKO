@@ -7,9 +7,6 @@
   <a href="https://shrinko.onrender.com">
     <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Explore_SHRINKO-2563EB?style=for-the-badge" />
   </a>
-  <a href="https://shrinko-api.onrender.com/docs">
-    <img src="https://img.shields.io/badge/API-Documentation-009688?style=for-the-badge" />
-  </a>
 </p>
 
 <p align="center">
